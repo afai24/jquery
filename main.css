@@ -1,0 +1,18 @@
+.barra {
+    min-width: 100%;
+    min-height: 10em;
+    border: 2px solid black;
+}
+
+#menu {
+    background-color: blue;
+}
+
+#menuhide {
+    background-color: green;
+    display: none;
+}
+
+.container {
+    margin-top: 2em;
+}
